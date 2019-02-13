@@ -25,6 +25,6 @@ Pod::Spec.new do |s|
   s.dependency "TZImagePickerController", "~> 2.1.6"
   s.dependency 'MBProgressHUD', '~> 1.0.0'
   s.dependency 'DACircularProgress', '~> 2.3'
-  s.dependency 'SDWebImage', '~> 3.7.5'
+  s.dependency 'SDWebImage'
 
 end
